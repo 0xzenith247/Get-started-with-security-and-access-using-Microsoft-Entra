@@ -5,4 +5,4 @@ Welcome to my learning log. Here I document my progress, practical tasks, and su
 
 
 ## Course Syllables & Progress
-* [Module 1: create, configure and manage identities] 
+* [Module 1: create, configure and manage identities] (.Module-01/README.md) - *In Progress*
