@@ -24,6 +24,7 @@ However, the process is quite simple: open the Microsoft Entra admin center, nav
 * **Action:** Restored a deleted user profile, recovering all original properties before the 30-day permanent deletion threshold.. <img width="1911" height="983" alt="Screenshot 2026-09-30 124010" src="https://github.com/user-attachments/assets/d9f5c6fc-5598-44b4-a9fb-533283a50198" />
 
 ### Unite 5: Create, configure and manage groups
+* *Concept* Microsoft entra group helps to organize users, it is the easiest way to manage user permissions. As stated earlier, the objective of the company is to protect cloud based workloads and by so doing microsoft entra groups draws us closer to that. In microsoft Entra there are two sets of groups; the security group and the microsoft 365 group. The security group is only available to administrators while that of of microsoft 365 is available to both users and admins.
 
 
 
