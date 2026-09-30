@@ -26,6 +26,11 @@ However, the process is quite simple: open the Microsoft Entra admin center, nav
 ### Unite 5: Create, configure and manage groups
 * *Concept* Microsoft entra group helps to organize users, it is the easiest way to manage user permissions. As stated earlier, the objective of the company is to protect cloud based workloads and by so doing microsoft entra groups draws us closer to that. In microsoft Entra there are two sets of groups; the security group and the microsoft 365 group. The security group is only available to administrators while that of of microsoft 365 is available to both users and admins.
 
+* 
+## Task
+Here I created a microsoft 365 group using the "assigned" membership type <img width="1916" height="909" alt="Screenshot 2026-09-30 140756" src="https://github.com/user-attachments/assets/40fdf7ca-7e64-4f96-b659-ced2a6ebd0c6" />
+
+
 
 
 
