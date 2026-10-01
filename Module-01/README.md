@@ -47,6 +47,8 @@ Microsoft Entra ID helps organizations manage users, devices, and access to orga
 *Joined = Organization-owned device*
 *Hybrid Joined = On-premises AD + Entra ID*
 
+**Verified Achievement:** I have successfully completed the official Microsoft Learn module assessment. You can verify my badge and module completion transcript directly via the official [Microsoft Learn Achievement Verification Link](https://learn.microsoft.com/api/achievements/share/en-us/AKATAOBICHIMEZIEPETER-5627/U75UEFT3?sharingId=3165879800C3B91C).
+
 
 
 
