@@ -6,3 +6,4 @@ Welcome to my learning log. Here I document my progress, practical tasks, and su
 
 ## Course Syllables & Progress
 * [Module 1: create, configure and manage identities](./Module-01/README.md) - *Completed*
+* [Module 2: Describe the authentication capabilities of Microsoft Entra ID](./Module-02/README.md) - *In progress*
