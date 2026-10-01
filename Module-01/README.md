@@ -30,6 +30,25 @@ However, the process is quite simple: open the Microsoft Entra admin center, nav
 ## Task
 Here I created a microsoft 365 group using the "assigned" membership type <img width="1916" height="909" alt="Screenshot 2026-09-30 140756" src="https://github.com/user-attachments/assets/40fdf7ca-7e64-4f96-b659-ced2a6ebd0c6" />
 
+### Unit 6: Configure and manage device registrations
+Microsoft Entra ID helps organizations manage users, devices, and access to organizational resources while maintaining security. Microsoft Intune can be used to enforce device security and compliance policies.
+* *Key Concepts* 
+* *Microsoft Entra Registered:* Primarily for personal/BYOD devices. The device remains signed in with a local/personal account but is connected to Entra ID for access to organizational resources.
+*Example:* Using a personal laptop to access company email.
+* *Microsoft Entra Joined:* Primarily for organization-owned devices. Users sign in directly with their organizational Entra ID account.
+*Example:* Signing into a company Windows laptop with a work account.
+* *Hybrid Microsoft Entra Joined:* Used when an organization has both on-premises Active Directory and Microsoft Entra ID. The device is connected to both systems.
+*Example:* A company continuing to use Group Policy and Active Directory while adopting cloud services.
+* *Microsoft Intune:* Manages and secures devices by enforcing policies such as encryption, strong passwords, software updates, and compliance requirements.
+* *Conditional Access:* Controls access to organizational resources based on conditions such as user identity, device compliance, and security status.
+
+## Key Takeaway
+*Registered = Personal/BYOD device*
+*Joined = Organization-owned device*
+*Hybrid Joined = On-premises AD + Entra ID*
+
+
+
 
 
 
